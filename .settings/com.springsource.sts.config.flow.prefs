@@ -1,0 +1,3 @@
+//com.springsource.sts.config.flow.coordinates\:http\://www.springframework.org/schema/batch\:/SpringMVCAngularJSService/src/main/resources/context-datasource.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<graph/>
+//com.springsource.sts.config.flow.coordinates\:http\://www.springframework.org/schema/batch\:/SpringMVCAngularJSService/src/main/resources/spring-batch-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<graph>\r\n<element clazz\="JobModelElement" type\="job">\r\n<structure end\="2956" endstart\="2944" start\="2566" startend\="2596"/>\r\n<bounds height\="118" width\="139" x\="15" y\="17"/>\r\n</element>\r\n</graph>
+eclipse.preferences.version=1
